@@ -2,15 +2,15 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.goodmorningsimulator-10570792.ue4editor.exe",
+			"app_key": "application.generated.ue.goodmorningsimulator-10757647.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "D:/GitHub/GoodMorningSimulator/GoodMorningSimulator/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "D:/GitHub/GoodMorningSimulator/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
 				{
-					"name": "GoodMorningSimulator-10570792 [UE Editor]"
+					"name": "GoodMorningSimulator-10757647 [UE Editor]"
 				}
 			}
 		}
